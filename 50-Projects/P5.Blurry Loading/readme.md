@@ -1,0 +1,1 @@
+Clean and interactive web component that displays a loading percentage while a blurred background gradually becomes clear. It demonstrates smooth animation using HTML, CSS, and JavaScript, combining opacity and blur effects to create a visually engaging user experience.
