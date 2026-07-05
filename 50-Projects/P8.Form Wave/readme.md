@@ -1,0 +1,1 @@
+This is a simple and responsive login form made with HTML and CSS. The project includes animated input labels that move smoothly when the user clicks on the input fields or types text. It has a clean modern design with interactive effects that improve the user experience.
