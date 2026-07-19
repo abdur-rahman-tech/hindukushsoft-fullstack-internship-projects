@@ -1,1 +1,0 @@
-A simple counter animation project built with HTML, CSS, and JavaScript. The counters increase automatically from 0 to the target number with a smooth animation effect. The design is responsive and centered on the screen.

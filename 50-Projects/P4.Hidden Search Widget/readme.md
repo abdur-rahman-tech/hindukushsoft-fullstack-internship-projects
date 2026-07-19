@@ -1,1 +1,0 @@
-A responsive expandable search bar that smoothly grows from an icon into an input field when activated. It uses CSS transitions and JavaScript class toggling to create a clean, interactive search experience.

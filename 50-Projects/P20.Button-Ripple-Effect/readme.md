@@ -1,1 +1,0 @@
-A simple and interactive button ripple effect built with HTML, CSS, and JavaScript. Clicking the button creates a smooth ripple animation from the exact point of interaction, demonstrating DOM manipulation and event handling.

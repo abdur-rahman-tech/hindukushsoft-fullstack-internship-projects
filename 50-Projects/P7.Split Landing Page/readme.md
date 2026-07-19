@@ -1,1 +1,0 @@
-A responsive and interactive Split Landing Page built using HTML, CSS, and JavaScript. The webpage is divided into two sections with smooth hover animations, dynamic resizing effects, and modern UI styling. When the user moves the mouse over either side, that section expands while the other shrinks, creating an engaging visual experience.

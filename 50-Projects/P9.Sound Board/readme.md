@@ -1,1 +1,0 @@
-This is a simple sound board web page. It has six buttons for different sounds: applause, boo, gasp, tada, victory, wrong, and three. Clicking any button plays the selected sound. Only one sound plays at a time. The page has a purple background and clean buttons.
