@@ -1,0 +1,1 @@
+A simple and interactive Sound Board application built with HTML, CSS, and JavaScript. The app allows users to play a variety of sound effects with a single click, providing an engaging way to explore audio playback using the HTML5 Audio API.
