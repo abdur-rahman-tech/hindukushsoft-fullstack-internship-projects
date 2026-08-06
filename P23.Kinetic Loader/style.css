@@ -36,7 +36,7 @@ body {
     animation: rotateB 2s linear infinite;
 }
 
-@keyframe rotateA {
+@keyframes rotateA {
 
     0%,
     25% {
@@ -53,7 +53,7 @@ body {
     }
 }
 
-@keyframe rotateB {
+@keyframes rotateB {
 
     0%,
     25% {
