@@ -66,6 +66,6 @@ body {
     }
 
     100% {
-        transfrom: rotate(450deg);
+        transform: rotate(450deg);
     }
 }
