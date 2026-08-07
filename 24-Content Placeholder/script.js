@@ -17,7 +17,7 @@ function getData() {
     excerpt.innerHTML = 
     'Full Stack Web Development Intern at HindukushSoft Technologies'
     profile_img.innerHTML = 
-    '<img src = "https://media.licdn.com/dms/image/v2/D4D03AQFlpVFnvbvKog/profile-displayphoto-scale_400_400/B4DZ9DDp6nK0Ag-/0/1783536461496?e=1787788800&v=beta&t=-em44vIQzVWFewDc09EkBX7w_KZihtJZEGJc-WLaG10" alt = "" />'
+    '<img src = "https://randomuser.me/api/portraits/men/45.jpg" alt = "" />'
     name.innerHTML = 'Abdur Rahman'
     date.innerHTML = 'July 25, 2003'
     animated_bgs.forEach((bg) => bg.classList.remove('animated-bg'))
