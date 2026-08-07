@@ -1,7 +1,7 @@
 const header = document.getElementById('header')
 const title = document.getElementById('title')
 const excerpt = document.getElementById('excerpt')
-const profile-img = document.getElementById('profile-img')
+const profile_img = document.getElementById('profile-img')
 const name = document.getElementById('name')
 const date = document.getElementById('date')
 
