@@ -17,7 +17,7 @@ function getData() {
     excerpt.innerHTML = 
     'Full Stack Web Development Intern at HindukushSoft Technologies'
     profile_img.innerHTML = 
-    '<img src = "https://scontent.fpew4-1.fna.fbcdn.net/v/t39.30808-6/678241841_122177935046839734_205262067314836126_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=s1080x1350&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DkUrveUCO6wQ7kNvwGGpAcx&_nc_oc=Adqj5D66f5j1JQrg0-NZy_YRLDYEHo2yCWvLgcqWmoGlYcHQqCta2fZevS9pKdxDbIY&_nc_zt=23&_nc_ht=scontent.fpew4-1.fna&_nc_gid=ByrNMA2q-5lHJfFCTqVEDg&_nc_ss=7b289&oh=00_AQFpZsQHlIlUKOoVJawyGzrG5b5uL6F92zpgVzp5CHyoUw&oe=6A7BAF58" alt = "" />'
+    '<img src = "https://scontent.fpew3-1.fna.fbcdn.net/v/t39.30808-1/581955891_832297109397129_878496008221517666_n.jpg?stp=dst-jpg_tt6&cstp=mx1798x1816&ctp=p160x160&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=1d2534&_nc_eui2=AeHwWeTQMeXBFKNbsnGYjtmYXDNP2QP9_qlcM0_ZA_3-qUV5OLhDB3ipLZp5fAn75hsq05C4Q9la6d2SVr1-W-YD&_nc_ohc=2qZWmQse4UUQ7kNvwHkyBrN&_nc_oc=AdqXIctaeiUuVEtuzHwScJgXJkyxoWad3iyWzZrZK9b5sfTZj2g_lck8X2ylELOhmGM&_nc_zt=24&_nc_ht=scontent.fpew3-1.fna&_nc_gid=srZPXmDw5ZG1ELNduSumFA&_nc_ss=7b2a8&oh=00_AQHiV7TzbeNVT5MtFApV-6weTai3Wn_MKslOdYQctTsM0Q&oe=6A7BB6AB" alt = "" />'
     name.innerHTML = 'Abdur Rahman'
     date.innerHTML = 'July 25, 2003'
     animated_bgs.forEach((bg) => bg.classList.remove('animated-bg'))
