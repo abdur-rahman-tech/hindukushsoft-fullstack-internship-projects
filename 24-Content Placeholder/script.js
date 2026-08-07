@@ -17,7 +17,7 @@ function getData() {
     excerpt.innerHTML = 
     'Full Stack Web Development Intern at HindukushSoft Technologies'
     profile_img.innerHTML = 
-    '<img src = "https://scontent.fpew3-1.fna.fbcdn.net/v/t39.30808-1/581955891_832297109397129_878496008221517666_n.jpg?stp=dst-jpg_tt6&cstp=mx1798x1816&ctp=p160x160&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=1d2534&_nc_eui2=AeHwWeTQMeXBFKNbsnGYjtmYXDNP2QP9_qlcM0_ZA_3-qUV5OLhDB3ipLZp5fAn75hsq05C4Q9la6d2SVr1-W-YD&_nc_ohc=2qZWmQse4UUQ7kNvwHkyBrN&_nc_oc=AdqXIctaeiUuVEtuzHwScJgXJkyxoWad3iyWzZrZK9b5sfTZj2g_lck8X2ylELOhmGM&_nc_zt=24&_nc_ht=scontent.fpew3-1.fna&_nc_gid=srZPXmDw5ZG1ELNduSumFA&_nc_ss=7b2a8&oh=00_AQHiV7TzbeNVT5MtFApV-6weTai3Wn_MKslOdYQctTsM0Q&oe=6A7BB6AB" alt = "" />'
+    '<img src = "https://media.licdn.com/dms/image/v2/D4D03AQFlpVFnvbvKog/profile-displayphoto-scale_400_400/B4DZ9DDp6nK0Ag-/0/1783536461496?e=1787788800&v=beta&t=-em44vIQzVWFewDc09EkBX7w_KZihtJZEGJc-WLaG10" alt = "" />'
     name.innerHTML = 'Abdur Rahman'
     date.innerHTML = 'July 25, 2003'
     animated_bgs.forEach((bg) => bg.classList.remove('animated-bg'))
