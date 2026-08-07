@@ -5,8 +5,8 @@ const profile-img = document.getElementById('profile-img')
 const name = document.getElementById('name')
 const date = document.getElementById('date')
 
-const animated-bgs = document.querySelectorAll('.animated-bg')
-const animated-bg-texts = document.querySelectorAll('.animated-bg-text')
+const animated_bgs = document.querySelectorAll('.animated-bg')
+const animated_bg_texts = document.querySelectorAll('.animated-bg-text')
 
 setTimeout(getData, 2500)
 
