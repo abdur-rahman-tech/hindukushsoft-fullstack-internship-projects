@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto;wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 * {
     box-sizing: border-box;
@@ -36,17 +36,17 @@ img {
     width: 100%;
 }
 
-card-content {
+.card-content {
     background-color: #fff;
     padding: 30px;
 }
 
-card-title {
+.card-title {
     height: 20px;
     margin: 0;
 }
 
-card-excerpt {
+.card-excerpt {
     color: #777;
     margin: 10px 0 20px;
 }
@@ -55,7 +55,7 @@ card-excerpt {
     display: flex;
 }
 
-profile-img {
+.profile-img {
     border-radius: 50%;
     overflow: hidden;
     height: 40px;
@@ -96,10 +96,10 @@ profile-img {
 
 @keyframes bgPos {
     0% {
-        background-position: 50%, 0;
+        background-position: 50% 0;
     }
 
     100% {
-        background-position: -150%, 0;
+        background-position: -150% 0;
     }
 }
