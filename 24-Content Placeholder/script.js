@@ -17,7 +17,7 @@ function getData() {
     excerpt.innerHTML = 
     'Full Stack Web Development Intern at HindukushSoft Technologies'
     profile_img.innerHTML = 
-    '<img src = "https://www.facebook.com/photo.php?fbid=122177935040839734&set=pb.61575192036802.-2207520000&type=3" alt = "" />'
+    '<img src = "https://randomuser.me/api/portraits/men/45.jpg" alt = "" />'
     name.innerHTML = 'Abdur Rahman'
     date.innerHTML = 'July 25, 2003'
     animated_bgs.forEach((bg) => bg.classList.remove('animated-bg'))
