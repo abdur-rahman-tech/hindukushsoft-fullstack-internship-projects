@@ -12,12 +12,12 @@ setTimeout(getData, 2500)
 
 function getData() {
     header.innerHTML = 
-    '<img src = "https://scontent.fpew4-1.fna.fbcdn.net/v/t39.30808-6/679957682_122178167156839734_2706235131326766981_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1536&ctp=s2048x1536&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3N2DHYXlgk4Q7kNvwE1tgnx&_nc_oc=AdqbhTgTItRZSWtpLBkS4Bda5pKKE-tg0oieCisrJEEHftm4AEWXT4v2xWD9KYpwTQM&_nc_zt=23&_nc_ht=scontent.fpew4-1.fna&_nc_gid=NClopANvycPBuGeyzCzt7w&_nc_ss=7b289&oh=00_AQErfIKz3rBk1jJV4iS9UzTsR4DchMq15M_0ymCRWIT7Gw&oe=6A7B8675" alt = "" />'
+    '<img src = "https://scontent.fisb9-1.fna.fbcdn.net/v/t39.30808-6/678241841_122177935046839734_205262067314836126_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=s1080x1350&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEQtaqTkpCM3yAZBFQyHzM7tOwqUkZNbT207CpSRk1tPbxcU4C4dN9Ij_sB341_5__8oyHDYuPidnntNBTcpP_Y&_nc_ohc=LkHejAnkT64Q7kNvwFJ9GlU&_nc_oc=AdqmeCFYDfjw9UbONMHXiTT6fE_up4jIfnNReOzD7za-9dJ1jGfYSZojRxQ6n-BnpXg&_nc_zt=23&_nc_ht=scontent.fisb9-1.fna&_nc_gid=khDrj_0olo_rI6S7J-C23g&_nc_ss=7b2a8&oh=00_AQTWCDSCWREUkN3tphqk7GzhDzaYMLbMsl1mt52tJurNfw&oe=6AF92618" alt = "" />'
     title.innerHTML = 'HindukushSoft Technologies'
     excerpt.innerHTML = 
     'Full Stack Web Development Intern at HindukushSoft Technologies'
     profile_img.innerHTML = 
-    '<img src = "https://media.licdn.com/dms/image/v2/D4D03AQFlpVFnvbvKog/profile-displayphoto-scale_400_400/B4DZ9DDp6nK0Ag-/0/1783536461496?e=1787788800&v=beta&t=-em44vIQzVWFewDc09EkBX7w_KZihtJZEGJc-WLaG10" alt = "" />'
+    '<img src = "https://www.facebook.com/photo.php?fbid=122177935040839734&set=pb.61575192036802.-2207520000&type=3" alt = "" />'
     name.innerHTML = 'Abdur Rahman'
     date.innerHTML = 'July 25, 2003'
     animated_bgs.forEach((bg) => bg.classList.remove('animated-bg'))
